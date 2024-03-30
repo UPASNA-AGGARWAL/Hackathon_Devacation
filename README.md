@@ -5,9 +5,9 @@
 
 # DEPLOYED PART - 
 
-The model has been successfully deployed using Flask and is on the verge of going live on PythonAnywhere. 
-Initially, we considered utilizing Streamlit for hosting the model, but encountered challenges and opted for a different approach. The journey involved downloading a pickle file using the Pickle library, and later transitioning to an HDF5 file for model storage and retrieval. Spyder was explored as a potential option, leading to two days of experimentation with various frameworks. Despite reaching the final stages of deployment with Ngrok, unforeseen API issues disrupted the process. We persistently pursued alternatives, highlighting our commitment to overcoming challenges and delivering a seamless user experience.
-
+The model has been successfully deployed using Flask, Streamlit and is live using ngrok. Initially, we considered hosting the model on render and pythonanywhere, but encountered challenges and opted for a different approach. The journey involved downloading a pickle file using the Pickle library, and later transitioning to an HDF5 file for model storage and retrieval. Spyder was explored as a potential option, leading to two days of experimentation with various frameworks. Despite reaching the final stages of deployment with PythonAnyWhere, render, and Streamlit community cloud unforeseen python and tensorflow version issues disrupted the process. We persistently pursued alternatives, highlighting our commitment to overcoming challenges and delivering a seamless user experience. Finally, the site is hosted on ngrok.
+Site link: changes periodically
+Problem : Ngrok free plans have a tunnel session timeout. We'll need to restart ngrok periodically to maintain the tunnel.
 
 ### MODEL DEMO
 
