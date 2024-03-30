@@ -24,6 +24,15 @@ Problem : Ngrok free plans have a tunnel session timeout. We'll need to restart 
 
 <img width="956" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/0c5ab77c-965f-4dde-a908-473b2fc7343c">
 
+![fruits](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/a1585b0f-36d1-4345-8e9c-bfb644f998e8)
+
+![organic](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/dbc55612-9d80-4739-b556-c739ddfc87bb)
+
+![roll](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/d9541292-ee7d-4ac4-bf64-eb9659d127cf)
+
+![recycle](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/6abc9170-2203-4ff6-bf18-11ae72e47e47)
+
+
 ## Overview
 The repository contains a deep learning model designed for waste segregation, categorizing waste into organic and recyclable classes. The model leverages the ResNet50 architecture and is implemented using TensorFlow and Keras.
 
