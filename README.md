@@ -1,5 +1,4 @@
-# Hackathon_Devcation
- # WASTE SEGREGATION DEEP LEARNING MODEL - Predicting the class of the waste
+# WASTE SEGREGATION DEEP LEARNING MODEL - Predicting the class of the waste
 # **Average Accuracy - 75%**
 # Site  Demo video - https://drive.google.com/file/d/19-HI_WcwDz2eVxrpojYX48DD0qljUuEf/view?usp=sharing
 
