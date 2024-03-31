@@ -11,13 +11,6 @@ Site link: changes periodically
 
 Problem : Ngrok free plans have a tunnel session timeout. We'll need to restart ngrok periodically to maintain the tunnel.
 
-### MODEL DEMO
-
-<img width="923" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/2b38e7f9-0424-4dde-bfc2-199084c43e26">
-
-<img width="728" alt="Screenshot 2024-02-09 192856" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/cc02f339-97b3-4c84-ba88-13079db26030">
-
-
 ### SITE DEMO
 
 <img width="960" alt="Screenshot 2024-02-11 155804" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/bd491659-4f11-42cc-b23d-b80c53119e3f">
@@ -27,12 +20,23 @@ Problem : Ngrok free plans have a tunnel session timeout. We'll need to restart 
 <img width="956" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/0c5ab77c-965f-4dde-a908-473b2fc7343c">
 
 ![fruits](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/a1585b0f-36d1-4345-8e9c-bfb644f998e8)
+when fruit image is  uploaded to test the model, it is classified as organic waste.
 
 ![organic](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/dbc55612-9d80-4739-b556-c739ddfc87bb)
 
 ![roll](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/d9541292-ee7d-4ac4-bf64-eb9659d127cf)
+when paper roll image is  uploaded to test the model, it is classified as recyclable waste.
 
 ![recycle](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/6abc9170-2203-4ff6-bf18-11ae72e47e47)
+
+
+### MODEL DEMO
+
+<img width="923" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/2b38e7f9-0424-4dde-bfc2-199084c43e26">
+
+<img width="728" alt="Screenshot 2024-02-09 192856" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/cc02f339-97b3-4c84-ba88-13079db26030">
+
+
 
 
 ## Overview
