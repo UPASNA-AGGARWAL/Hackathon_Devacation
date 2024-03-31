@@ -43,7 +43,7 @@ Site  Demo video - https://drive.google.com/file/d/19-HI_WcwDz2eVxrpojYX48DD0qlj
 
 
 ## Overview
-The repository contains a deep learning model designed for waste segregation, categorizing waste into organic and recyclable classes. The model leverages the ResNet50 architecture and is implemented using TensorFlow and Keras.
+The repository contains two deep-learning models designed for waste segregation, categorizing waste into organic and recyclable classes. The model leverages the ResNet50 architecture and VGG16 architecture and is implemented using TensorFlow and Keras.  For deployment, we opted for the ResNet50 model due to its promising accuracy levels.
 
 ## Tech Stack
 
