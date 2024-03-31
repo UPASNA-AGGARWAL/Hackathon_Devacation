@@ -49,8 +49,8 @@ The repository contains two deep-learning models designed for waste segregation,
 
 - **Deep Learning Framework:** TensorFlow
 - **Neural Networks API:** Keras
-- **Pre-trained Model:** ResNet50
-- **Activation Function:** Softmax
+- **Pre-trained Model:** ResNet50, VGG16
+- **Activation Function:** SoftMax
 - **Layers and Components:** Input, Lambda, Dense, Flatten
 - **Libraries:** NumPy, Matplotlib
 - **Miscellaneous:** glob, Sequential
@@ -61,7 +61,7 @@ The model consists of several layers, including Input, Lambda, Dense, and Flatte
 
 ## Training Details
 
-- **Number of Epochs:** 20
+- **Number of Epochs:** 20 (ResNet) and 15 (VGG)
 - **Training Images:** 22,564
 - **Testing Images:** 2,513
 
