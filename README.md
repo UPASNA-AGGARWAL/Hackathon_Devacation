@@ -14,7 +14,7 @@ We persistently pursued alternatives, highlighting our commitment to overcoming 
 
 Problem : Ngrok free plans have a tunnel session timeout. We'll need to restart ngrok periodically to maintain the tunnel.
 
-### SITE DEMO
+# SITE DEMO
 
 # <img width="960" alt="Screenshot 2024-02-11 155804" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/bd491659-4f11-42cc-b23d-b80c53119e3f">
 
