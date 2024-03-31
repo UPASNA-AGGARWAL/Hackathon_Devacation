@@ -1,4 +1,4 @@
-# Hackathon_Devacation
+# Hackathon_Devcation
  # WASTE SEGREGATION DEEP LEARNING MODEL - Predicting the class of the waste
 
 # **Average Accuracy - 75%**
