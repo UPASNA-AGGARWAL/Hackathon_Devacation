@@ -29,6 +29,9 @@ when paper roll image is  uploaded to test the model, it is classified as recycl
 
 ![recycle](https://github.com/UPASNA-AGGARWAL/Hackathon_Devacation/assets/120074587/6abc9170-2203-4ff6-bf18-11ae72e47e47)
 
+Site  Demo video - https://drive.google.com/file/d/19-HI_WcwDz2eVxrpojYX48DD0qljUuEf/view?usp=sharing
+
+
 
 ### MODEL DEMO
 
