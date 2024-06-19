@@ -1,4 +1,11 @@
-# Hackathon_Devcation
+# Eco Savvy ~ Smart Solutions for Waste
+
+
+This repo is of our WEB PORTAL & 5 features of our project are listed below:-
+# Key Features - i) Scan the Waste
+# (ii) Waste Discovery by VR Room (iii) Waste Sorting Game (iv) Recycle Hub (v) Chatbot
+
+
  # WASTE SEGREGATION DEEP LEARNING MODEL - Predicting the class of the waste
 
 # **Average Accuracy - 75%**
