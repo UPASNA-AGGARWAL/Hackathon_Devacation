@@ -8,7 +8,7 @@ This repo is of our WEB PORTAL & 5 features of our project are listed below:-
 
  # WASTE SEGREGATION DEEP LEARNING MODEL - Predicting the class of the waste
 
-# **Average Accuracy - 75%**
+# **Average Accuracy - 80%**
 
 # DEPLOYED PART - 
 
